@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#practice some string operations
+# practice some string operations
 
 myVar="Hello I am Dipanjan"
 

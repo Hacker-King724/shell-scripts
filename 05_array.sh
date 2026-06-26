@@ -8,7 +8,7 @@ echo "Array elements: ${myArray[*]}"
 # echo "${myArray[4]}"
 # echo "${myArray[5]}"
 
-# updating the array iwth new values
+# updating the array ith new values
 myArray+=( New 30 40 )
 
 echo "New elements of the array ${myArray[*]}"
